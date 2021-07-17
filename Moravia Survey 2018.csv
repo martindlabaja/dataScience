@@ -1,0 +1,461 @@
+Site number,Site Info / Location,GPS coordinates ,Altitude,Isolate Name,Code,ID ITS
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 1a,MO001,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Ulnus 3b,MO002,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 1c2,MO003,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Malus 1,MO004,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 1a,MO005,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 9b,MO006,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 8b,MO007,P. lacustris (mixed culture)
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 9,MO008,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 3,MO009,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Prunus 2c,MO010,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 3b1,MO011,P. gonapodyides
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 1c1,MO012,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Alder 1,MO013,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 1b,MO014,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Prunus 2a,MO015,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 8a,MO016,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer platanoides 2a,MO017,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer,MO018,Phy. litorale
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Prunus 2b,MO019,Phy. sp (mixed culture)
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 4 contaminated/lost,MO020,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 3b2,MO021,Phy. litorale
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer platanoides 2b,MO022,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer platanoides 1,MO023,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Prunus 1 mix?,MO024,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 3a,MO025,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 1b,MO026,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 8a,MO027,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 6MO26,MO028,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 5,MO029,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer platanoides 2c,MO030,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Prunus 1 mix?,MO031,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 6a,MO032,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Robinia 6b,MO033,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 2a,MO034,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 2b,MO035,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestre 2c,MO036,
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer 4,MO037,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 2b1,MO038,N. sp. caduca-like2
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder3,MO039,P. syringae
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 7,MO040,N. sp. caduca-like2
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 5a,MO041,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 2a2,MO042,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 1b4,MO043,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 4a1,MO044,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 2a3,MO045,P. bilorbang
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 2,MO046,Ha. fluviatilis
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 2a1,MO047,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 2a2,MO048,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 4a,MO049,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 6a1,MO050,P. gonapodyides (mixed culture)
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 6a2,MO051,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 5a1,MO052,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alnus 7,MO053,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 1b,MO054,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 4a1,MO055,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 3b1,MO056,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 5Tip2 mix?,MO057,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a1 mix?,MO058,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 5a1 corner2,MO059,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 1b2,MO060,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 2a2,MO061,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 6a1,MO062,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alnus 7b2,MO063,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 5,MO064,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 5a4,MO065,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 4a1,MO066,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 5a5,MO067,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 5a1 corner1,MO068,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 2a4,MO069,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 6a2,MO070,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a3,MO071,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 2,MO072,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 2b2,MO073,P. gallica
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 5b2,MO074,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Prunus 1a3,MO075,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 2a1,MO076,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 3,MO077,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 6b3,MO078,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a6,MO079,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a7,MO080,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 7,MO081,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Carpinus 3b,MO082,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 4b,MO083,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 1b3,MO084,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 1a2,MO085,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 5b,MO086,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 4b,MO087,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a4,MO088,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulnus 4c1,MO089,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 2a1,MO090,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 1a1,MO091,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 1a,MO092,P. lacustris (mixed culture)
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 1b1,MO093,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 6b2,MO094,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 6b1,MO095,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 1a1,MO096,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a5,MO097,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 4a3,MO098,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Prunus 1b1,MO099,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 2a1,MO100,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 1a1,MO101,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 5b1,MO102,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 5b1,MO103,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6a3,MO104,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 4 b2,MO105,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 4 a1,MO106,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 1 b2,MO107,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 2  a2,MO108,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Cherry 1 a2,MO109,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder4 a5,MO110,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 4 a6,MO111,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 5 a2,MO112,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fradxinus 3 tip 2,MO113,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 1a2,MO114,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6 a2,MO115,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 3 ,MO116,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,"R02 Cherry 1 a1, 1st colony, 2nd copy ",MO117,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,"R02 Tilia 1 a3 , 1 st copy",MO118,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 4b1,MO119,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,"R02 Cherry 1 a1, 1st colony, 1nd copy ",MO120,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,"R02 Cherry 1 a1 , 2nd collony, 2nd copy ",MO121,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,"R02 Cherry  1 a1, 2 nd colony  1st copy ",MO122,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 1 a3 2 nd copy,MO123,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 5 tip 1,MO124,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 5 a3,MO125,P. bilorbang
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Tilia 2 a3,MO126,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 4 a2,MO127,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Fraxinus 3 Tip 3,MO128,P. lacustris
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 1 b2 mixed nondivided,MO129,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 2a,MO130,P. gallica
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Acer 4 a2,MO131,P. gonapodyides
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Alder 6,MO132,P. bilorbang
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Corylus 1A B2,MO133,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Salix alba 2 a1,MO134,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Tilia a,MO135,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 3 d,MO136,P. riparia
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 1 b2,MO137,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Salix alba 2a3,MO138,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 2a1,MO139,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 1 a2,MO140,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 2b,MO141,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 5 a,MO142,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 L6Bb,MO143,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 3,MO144,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 3b,MO145,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 3b,MO146,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 3a,MO147,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Javor klen 1a,MO148,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 4b,MO149,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 1 b1,MO150,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulnus 3a2,MO151,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen2b,MO152,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Tilia b,MO153,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 2 a2,MO154,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 5 c,MO155,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 1 a1,MO156,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 1a1,MO157,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 1a3,MO158,P. gallica
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 2a,MO159,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 1a2,MO160,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 2a2,MO161,P. lacustris (mixed culture)
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Alnus 1b2,MO162,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 1b,MO163,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 3a1,MO164,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 4c,MO165,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 4a,MO166,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Salix alba 2a2,MO167,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 5a,MO168,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 1 c1,MO169,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 5 b,MO170,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 2 a1 disrupted,MO171,P. gonapodyides
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 1 c,MO172,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 3 c,MO173,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Ulmus 2 a,MO174,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 1 a,MO175,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 2 b,MO176,
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Quercus 1 b1,MO177,P. lacustris
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 Klen 1 c2,MO178,P. gallica
+R03,Chudcice,"49°17'16.74""N  16°27'45.03""E",271,R03 L6d2,MO179,P. bilorbang
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 2 c,MO180,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 2,MO181,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 4a1,MO182,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 2a,MO183,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 3a2,MO184,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 1a,MO185,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix 4a,MO186,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 4,MO187,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 3c,MO188,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 1b2,MO189,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 3b,MO190,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 2b,MO191,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 2,MO192,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 4b,MO193,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix 3a1,MO194,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 1,MO195,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 4a,MO196,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 2a1,MO197,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix2b,MO198,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus4b,MO199,P. gonapodyides
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 4a2,MO200,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 1a3,MO201,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix1a1 disrupted,MO202,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix 1 b,MO203,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 1a1,MO204,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 3c,MO205,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix 2a,MO206,P. lacustris
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 3a,MO207,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix4c,MO208,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen1a4,MO209,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 2a2,MO210,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 2b,MO211,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 3b,MO212,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Alnus 2a,MO213,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Klen 1a2,MO214,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Robinia 3a1,MO215,
+R04,Veverska Bytyska,"49°16'13.64""N 16°25'30.34""E",247,R04 Salix4b,MO216,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mléč2c,MO217,P. gonapodyides
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mléč1a,MO218,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 1a1,MO219,Phy. sp. PV_So7
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen1a1,MO220,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Alnus 1,MO221,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 3a,MO222,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 1a3,MO223,P. lacustris (mixed culture)
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen2,MO224,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen 1b1,MO225,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mlec 2b2,MO226,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Tilia 1b1,MO227,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 2a1,MO228,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen1a2,MO229,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Tilia 1c,MO230,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen1b2,MO231,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus1a2,MO232,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mleč 2a2,MO233,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mleč2a1,MO234,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Populus 3a2,MO235,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Tilia 1a1,MO236,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen 2b,MO237,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Klen3,MO238,P. gonapodyides
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 2tip,MO239,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mlec 2 b1,MO240,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Polpulus 3a2,MO241,P. gonapodyides
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 2a2,MO242,P. gonapodyides (mixed culture)
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Populus2,MO243,P. lacustris
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Tilia 1 b2,MO244,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Populus3a1,MO245,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Tilia1a2,MO246,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Mlec1b,MO247,
+R05,Zastavka U Brna Potok,"49°11'16.16""N  16°20'36.31""E",339,R05 Ulmus 2b1,MO248,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 5b1,MO249,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 2a2,MO250,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 5b2,MO251,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 1d,MO252,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 6a2,MO253,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 4c,MO254,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 1a2,MO255,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Acer2b,MO256,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 2c,MO257,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 1b2,MO258,P. lacustris
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 1a1,MO259,P. lacustris
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 2b,MO260,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus1c,MO261,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 2d,MO262,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus6c,MO263,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 6a1,MO264,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 4b,MO265,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Alnus 3a, 1st colony ",MO266,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 6b2,MO267,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 3b,MO268,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 4a,MO269,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 2a,MO270,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus2a,MO271,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 2b,MO272,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 2c,MO273,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Javor 4a,MO274,P. lacustris
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 3a1,MO275,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mleč 3c,MO276,Phy. sp. PV_So7
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Alnus3a, 2nd colony",MO277,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Lb,MO278,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Robinia 1a3, 2nd collony",MO279,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 5a2,MO280,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 2a1,MO281,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec  3a,MO282,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Jvor 4c,MO283,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 1c mixed colony,MO284,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 5a1,MO285,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 1a1,MO286,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Lc,MO287,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Javor 4b2,MO288,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 3c,MO289,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus1a3,MO290,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 3a2,MO291,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Javor 4 b3, 1st collony ",MO292,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Javor 4 b3, 2nd collony ",MO293,Phy. sp1. ROH-2015
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,"R06 Robinia 1a3, 1st collection",MO294,Phy. sp (mixed culture)
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 5c,MO295,P. gonapodyides
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 3b,MO296,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec 1a,MO297,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 6b1,MO298,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Alnus 1a2,MO299,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec2b,MO300,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 La,MO301,
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Mlec b,MO302,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 1a1,MO303,Phy. sp1. ROH-2015
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Quercus a1,MO304,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 2 a1,MO305,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Quercus a2,MO306,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Acer tip a,MO307,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Coryls 1,MO308,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 1b,MO309,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus 2c,MO310,P. lacustris (short seq)
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus betulus 4,MO311,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 3b,MO312,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus 2a,MO313,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 2a2,MO314,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Fagus a1,MO315,P. lacustris (mixed culture)
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus 2b,MO316,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 4a1,MO317,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 3a2,MO318,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 2b,MO319,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 3c,MO320,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 3a1,MO321,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus betulus 3b,MO322,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Carpinus betulus 3a1,MO323,P. gonapodyides
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 2a,MO324,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix caprea 1a2,MO325,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Acer b,MO326,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 2,MO327,P. lacustris
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 4b,MO328,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 1a2,MO329,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 1a1,MO330,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 2b,MO331,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 2a1,MO332,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 2b,MO333,Ha. fluviatilis
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Salix alba 1,MO334,Ha. fluviatilis
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Corylus 2a2,MO335,Phy. citrinum
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,"R07 Carpinus betulus 3a1, 1.",MO336,Phy. sp (mixed culture)
+R08,Hádek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer 2a3,MO337,P. lacustris
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix2a,MO338,P. lacustris
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 1a2,MO339,P. gonapodyides
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer2a1,MO340,P. gonapodyides (mixed culture)
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 1c,MO341,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 L1b,MO342,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 3a,MO343,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 L1a1,MO344,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 4b,MO345,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 2b,MO346,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer1a,MO347,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer2a2,MO348,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer4a,MO349,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer3a,MO350,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer4b,MO351,P. gonapodyides
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 L1a2,MO352,P. gonapodyides
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 1b2,MO353,P. gonapodyides
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 1a1,MO354,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus b,MO355,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 2b,MO356,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 3b,MO357,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 1a,MO358,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 4a,MO359,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 2a,MO360,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 2a2,MO361,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Acer 3b,MO362,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 2a1,MO363,Phy. citrinum
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 2c,MO364,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 3a,MO365,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 1b,MO366,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 3a,MO367,P. gallica
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Alnus 2b,MO368,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 3 Tip,MO369,
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Salix 2c,MO370,P. gonapodyides
+R08,Hadek,"49°14'58.00""N  16°45'46.46""E",348,R08 Carpinus betulus 1 a,MO371,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 4a1,MO372,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 3a1,MO373,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus tremola 3a2, 1st copy",MO374,P. gonapodyides
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus tremola 3a2, 2nd copy",MO375,P. lacustris (mixed culture)
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 2b1,MO376,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Cormus mas 1b2,MO377,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 1b,MO378,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Quercus b,MO379,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Jvor babika 1a2,MO380,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 4,MO381,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 3 a,MO382,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Quercus a,MO383,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 3,MO384,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Quercus c,MO385,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Polpulus tremola 1a2,MO386,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 4,MO387,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 1b,MO388,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus nigra 2a,MO389,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 3b,MO390,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 3,MO391,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Acer babika 3b,MO392,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Cormus mas 2a2,MO393,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 2a,MO394,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 2b2,MO395,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 1b,MO396,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Cormus mas 2b,MO397,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 2a,MO398,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia b,MO399,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Cormus mas 2a1,MO400,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Tilia 4a,MO401,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus nigra 2b,MO402,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 1a,MO403,Phy. sp. PV_So7
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 3a1,MO404,Phy. sp (mixed culture)
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus nigra 1a2, 2nd collony, Phytopythium ",MO405,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Javor babika 1a1,MO406,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Javor babika 2a1,MO407,Phy. sp (mixed culture)
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Carpinus betulus 1a,MO408,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus nigra 1a2, 1st colony, Phytop",MO409,
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus nigra 1a1, 1st corner ",MO410,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,"R09 Populus nigra 1a1, 2nd corner, Pythium",MO411,Phy. litorale
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 1a1,MO412,Phy. sp. PV_So7
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus tremola 4a2,MO413,P. lacustris
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Cormus mas 1a,MO414,P. gonapodyides
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Acer babika 3a,MO415,Phy. sp1. ROH-2015
+R09,Racice,"49°17'11.77""N 16°52'29.28""E",324,R09 Populus nigra 1b,MO416,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix caprea 1a,MO417,P. bilorbang
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Acer 1a, Pyth",MO418,Phy. litorale
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Acer 1b,MO419,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 3a,MO420,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Salix caprea 1, 1st collony",MO421,P. lacustris (mixed culture)
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Acer 3b,MO422,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 2 a1,MO423,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Salix caprea 1, 2nd copy",MO424,Phy. sp1. ROH-2015
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Acer 2a1, 2nd copy",MO425,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Acer 2a1, 1st copy",MO426,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 2a2,MO427,P. gonapodyides
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix 5b,MO428,P. lacustris
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix 8a1 disr.,MO429,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix 5a1,MO430,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 3a1,MO431,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Alnus 4a, disr",MO432,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 4b,MO433,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 4a,MO434,P. lacustris
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Ulmus 2a, 2nd",MO435,P. gonapodyides
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 5,MO436,Phy. sp1. ROH-2015
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Salix caprea 1b, 2nd colony",MO437,P. lacustris (mixed culture)
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Acer 2a2, disrpt",MO438,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 2a1,MO439,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 2,MO440,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 3b,MO441,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix 5a2,MO442,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,"R10 Salix caprea 1b, 1st corner",MO443,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 4b,MO444,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix caprea 1 Tip b,MO445,P. lacustris
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 2a2,MO446,Phy. sp1. ROH-2015
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 1a2,MO447,P. lacustris
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Acer 3a,MO448,P. lacustris
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 2b,MO449,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola1a1,MO450,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix caprea1 tipb,MO451,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Populus tremola 3a1,MO452,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix 8a2,MO453,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Alnus 2a  (maybe copy),MO454,
+R10,Holstejn,"49°24'26.25""N  16°46'45.69""E",466,R10 Salix caprea 3a,MO455,
+R07,Ricmanice,"49°15'28.39""N  16°42'5.45""E",277,R07 Acer c,MO456,P. lacustris
+R01,Katerina-Sebrov,"49°19'48.21""N  16°36'19.36""E",326,R01 Acer campestris d,MO457,
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulmus 1b,MO458,P. lacustris
+R06,Strelice,"49° 8'3.19""N  16°31'44.40""E",235,R06 Robinia 1a3,MO459,P. lacustris (ITS BadSeq)
+R02,Skalni mlyn,"49°21'51.17""N  16°42'13.10""E",341,R02 Ulnus 1,MO460,
